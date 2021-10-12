@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hey there 👋
+
+I'm a Computer Science student with a passion for creating software which empowers others, from tooling to help developers, to wide-ranging software to help anyone! Online, I go by the pseudonym Johnny.
+
+- 🔭 I'm currently working on [StyLua](https://github.com/JohnnyMorganz/StyLua), a Lua code formatter to ease the burden of style review.
+- ⚡ I love working on different kinds of software, ranging from command line tools to video games.
+
+![JohnnyMorganz's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnymorganz&count_private=true&show_icons=true)
+
+📫 You can reach me at `johnnymorganz@outlook.com`
+
 
 <!--
 **JohnnyMorganz/JohnnyMorganz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
