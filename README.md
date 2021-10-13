@@ -5,9 +5,11 @@ I'm a Computer Science student with a passion for creating software which empowe
 - 🔭 I'm currently working on [StyLua](https://github.com/JohnnyMorganz/StyLua), a Lua code formatter to ease the burden of style review.
 - ⚡ I love working on different kinds of software, ranging from command line tools to video games.
 
-![JohnnyMorganz's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnymorganz&count_private=true&show_icons=true)
-
 📫 You can reach me at `johnnymorganz@outlook.com`
+
+![JohnnyMorganz's GitHub stats](https://github-readme-stats-gray-eight-32.vercel.app/api?username=johnnymorganz&count_private=true&show_icons=true)
+![Top Languages](https://github-readme-stats-gray-eight-32.vercel.app/api/top-langs/?username=johnnymorganz&layout=compact&exclude_repo=tree-sitter-luau,github-readme-stats&hide=css,javascript)
+
 
 
 <!--
