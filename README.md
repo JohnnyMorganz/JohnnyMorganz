@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm a Computer Science student with a passion for creating software which empowers others, from tooling to help developers, to wide-ranging software to help anyone! Online, I go by the pseudonym Johnny.
+I'm a Computer Science student with a passion for creating software which empowers others, from tooling to help developers, to wide-ranging software to help anyone! Online, I go by the pseudonym Johnny (not my real name!).
 
 - 🔭 I'm currently working on [StyLua](https://github.com/JohnnyMorganz/StyLua), a Lua code formatter to ease the burden of style review.
 - ⚡ I love working on different kinds of software, ranging from command line tools to video games.
